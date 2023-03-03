@@ -1,0 +1,30 @@
+h1{
+	color:darkgreen;
+}
+.title-one{
+	color:darkolivegreen;
+}
+.contacts{
+	font-weight: bold;
+	font-size: larger;
+}
+.title-two{
+	color:darkolivegreen ;
+}
+.text{
+	font-weight: bold;
+	font-style: italic;
+}
+.title-three{
+	color: darkgoldenrod;
+	}
+.desc{
+	font-style: italic;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.title-four{
+	color: darkgray;
+}
+.lang{
+	font-weight: bold;
+}
